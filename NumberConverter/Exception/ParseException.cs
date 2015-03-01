@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnitConverter
+namespace NumberConverter
 {
     public class ParseException : Exception
     {

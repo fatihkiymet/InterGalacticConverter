@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using UnitConverter;
+using NumberConverter;
 
-namespace UnitConverterTest
+namespace NumberConverterTest
 {
     [TestClass]
     public class XNodeTest : NodeTestBase<XNode>

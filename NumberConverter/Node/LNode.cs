@@ -1,4 +1,4 @@
-﻿namespace UnitConverter
+﻿namespace NumberConverter
 {
     public class LNode : NodeBase
     {

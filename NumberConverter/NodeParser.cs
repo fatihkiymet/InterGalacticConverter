@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace UnitConverter
+namespace NumberConverter
 {
     public class NodeParser : INodeParser
     {

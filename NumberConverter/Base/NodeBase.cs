@@ -1,4 +1,4 @@
-﻿namespace UnitConverter
+﻿namespace NumberConverter
 {
     public abstract class NodeBase
     {

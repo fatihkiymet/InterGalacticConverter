@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using UnitConverter;
+using NumberConverter;
 
-namespace UnitConverterTest
+namespace NumberConverterTest
 {
     [TestClass]
     public class VNodeTest : NodeTestBase<VNode>

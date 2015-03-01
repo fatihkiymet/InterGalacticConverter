@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using UnitConverter;
+using NumberConverter;
 
-namespace UnitConverterTest
+namespace NumberConverterTest
 {
     public abstract class NodeTestBase<T> where T : NodeBase, new()
     {

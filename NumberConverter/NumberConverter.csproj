@@ -39,23 +39,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CNode.cs" />
+    <Compile Include="Node\CNode.cs" />
     <Compile Include="Exception\InvalidSubtractionException.cs" />
-    <Compile Include="DNode.cs" />
+    <Compile Include="Node\DNode.cs" />
     <Compile Include="Interface\INodeCalculator.cs" />
     <Compile Include="Interface\INodeParser.cs" />
-    <Compile Include="I_Node.cs" />
+    <Compile Include="Node\I_Node.cs" />
     <Compile Include="Base\NodeBase.cs" />
-    <Compile Include="LNode.cs" />
-    <Compile Include="MNode.cs" />
+    <Compile Include="Node\LNode.cs" />
+    <Compile Include="Node\MNode.cs" />
     <Compile Include="NodeCalculator.cs" />
     <Compile Include="NodeParser.cs" />
     <Compile Include="NodeResolver.cs" />
-    <Compile Include="NodeType.cs" />
+    <Compile Include="Common\NodeType.cs" />
     <Compile Include="Exception\ParseException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="VNode.cs" />
-    <Compile Include="XNode.cs" />
+    <Compile Include="Node\VNode.cs" />
+    <Compile Include="Node\XNode.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

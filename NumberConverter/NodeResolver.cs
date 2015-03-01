@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 
-namespace UnitConverter
+namespace NumberConverter
 {
     public class NodeResolver
     {

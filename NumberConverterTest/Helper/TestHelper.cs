@@ -1,7 +1,7 @@
 ﻿using System;
-using UnitConverter;
+using NumberConverter;
 
-namespace UnitConverterTest
+namespace NumberConverterTest
 {
     public static class TestHelper
     {
